@@ -18,9 +18,9 @@ no_puppies(0)
 def less_puppies(int)
   if int<3
     puts "good job"
-  if int == 3
+  elsif int == 3
     puts "slow down"
-  if int >3 
+  elsif int >3 
       puts "get back on your animal restriction!"
   end
 end
