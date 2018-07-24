@@ -8,7 +8,7 @@ def no_puppies(int)
   end
 end
 
-no_puppies(-1)
+no_puppies(0)
 
 
 
