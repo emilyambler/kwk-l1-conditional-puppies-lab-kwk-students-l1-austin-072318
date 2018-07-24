@@ -33,7 +33,7 @@ less_puppies(3)
 def some_puppies(found, allowance)
   if found < 0.5 * allowance
     puts "good job!"
- elsif found > allownce
+ elsif found > allowance
     puts "get back on your puppy restriction!"
   end
 end
