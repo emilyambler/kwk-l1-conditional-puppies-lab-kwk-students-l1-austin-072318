@@ -2,7 +2,7 @@
 
 def no_puppies(int)
   if int < 0 
-    put "No more pupies!"
+    puts "No more pupies!"
   else 
     "Well done, Rachel!"
   end
